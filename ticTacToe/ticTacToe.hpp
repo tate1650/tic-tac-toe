@@ -1,0 +1,10 @@
+void greetPlayers();
+bool getPlayerResponse();
+std::string getPlayerName(int playerNumber);
+void drawBoard(std::vector<int> gameBoard);
+int getPlayerInput(std::string playerName, std::vector<int> gameBoard);
+std::vector<int> updateBoard(std::vector<int> gameBoard, int playerMove, int currentPlayer);
+bool checkForWin(std::vector<int> gameBoard);
+bool checkForCat(std::vector<int> gameBoard);
+void printWinMessage(int gameWinner, std::string player1Name, std::string player2Name);
+void printGoodbye();

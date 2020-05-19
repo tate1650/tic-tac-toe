@@ -1,0 +1,7 @@
+﻿  ticTacToe.cpp
+C:\Users\taten\source\repos\ticTacToe\ticTacToe\ticTacToe.cpp(116,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taten\source\repos\ticTacToe\ticTacToe\ticTacToe.cpp(117,16): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\taten\source\repos\ticTacToe\ticTacToe\ticTacToe.cpp(117,87): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\taten\source\repos\ticTacToe\ticTacToe\ticTacToe.cpp(165,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taten\source\repos\ticTacToe\ticTacToe\ticTacToe.cpp(172,39): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  ticTacToe.vcxproj -> C:\Users\taten\source\repos\ticTacToe\Debug\ticTacToe.exe
