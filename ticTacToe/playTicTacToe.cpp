@@ -1,3 +1,11 @@
+/*
+playTicTacToe.cpp
+
+Tic-Tac-Toe
+An interactive C++ terminal game
+by Tate Mauzy
+*/
+
 # include <iostream>
 # include <vector>
 # include <string>

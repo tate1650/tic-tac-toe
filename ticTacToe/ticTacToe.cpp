@@ -1,3 +1,12 @@
+/*
+ticTacToe.cpp
+
+Provides the bulk of the functionality
+for playTicTacToe.cpp
+
+by Tate Mauzy
+*/
+
 # include <iostream>
 # include <vector>
 # include <string>
